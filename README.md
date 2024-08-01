@@ -26,5 +26,5 @@
 ### ابزار های کار من :
 | Jupyter | Anaconda | MySql | Sql |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| ![](https://github.com/EhsanNaderlou/profile_images/blob/master/jupyter.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/anaconda.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/mysql.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/sql.png) |
+| ![](https://github.com/EhsanNaderlou/profile_images/blob/master/jupyter.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/anaconda.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/MySql.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/sql.png) |
 
