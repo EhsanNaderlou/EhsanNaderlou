@@ -27,7 +27,7 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/jupyter.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/anaconda.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/MySql.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/sql.png) |
 
-### سیستم عامل هایی که من بهشون مسلطم :
+### سیستم عامل هایی که من بهشون مسلط ام :
 | Linux | Windows | Ubuntu | Fedora |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/linux.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/windows.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/ubuntu.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/fedora.png) |
