@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @EhsanNaderlou
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+من اخسانم برنامه نویس هوش مصنوعی , دیتاساینتیست و علاقه مند به امنتیت و لینوکس ....
+با تجربه یک ساله در تحقیق، توسعه و پیاده سازی الگوریتم های هوش مصنوعی و مدل های یادگیری عمیق و مسلط به برنامه نویسی به زبان پایتون و تجربه کار با ابزارهای مانند TensorFlow و scikit-learn و .....
 
-<!---
-EhsanNaderlou/EhsanNaderlou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
