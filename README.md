@@ -7,6 +7,6 @@
 خوب دیگه حرف زدنه بسه !! وقتشه هنرمو رو نشون بدم :)
 ## زبان ها و ابزار هایی من بهشون مسلط ام :
 
-|               |
+|MySql               |
 |:-------------:|
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/MySql.png) |
