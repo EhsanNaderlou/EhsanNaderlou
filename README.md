@@ -3,7 +3,7 @@
 با یک سال تجربه در تحقیق، توسعه و پیاده‌سازی الگوریتم‌های هوش مصنوعی و مدل‌های یادگیری عمیق ، مسلط به ابزارهایی مانند TensorFlow و scikit-learn
 
 #### راه های ارتباظی با من :
-[!(https://upload.wikimedia.org/wikipedia/commons/6/6b/insta.png)](https://t.me/your_username)
+[!(https://github.com/EhsanNaderlou/profile_images/blob/master/insta.png)](https://t.me/your_username)
 
 
 
