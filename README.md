@@ -3,7 +3,7 @@
 با یک سال تجربه در تحقیق، توسعه و پیاده‌سازی الگوریتم‌های هوش مصنوعی و مدل‌های یادگیری عمیق ، مسلط به ابزارهایی مانند TensorFlow و scikit-learn
 
 #### راه های ارتباظی با من :
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg)](https://t.me/your_username)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/6/6b/insta.png)](https://t.me/your_username)
 
 
 
