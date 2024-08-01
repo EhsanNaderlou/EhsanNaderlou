@@ -15,18 +15,11 @@
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/python.png) |
 
 ### کتابخونه ها و فریمورک ها :
-|Numpy|Pandas||MatPlotLib|Scikit-Learn||Tensorflow|Keras||OpenCv|CvZone||CustomTkinter|YOLO models|
-|:-------------:|:------------------:||:-------------:|:------------------:||:-------------:|:------------------:||:-------------:|:------------------:||:-------------:|:------------------:|
-| ![](https://github.com/EhsanNaderlou/profile_images/blob/master/numpy.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/pandas.png)|![](https://github.com/EhsanNaderlou/profile_images/blob/master/matplotlib.png)|![](https://github.com/EhsanNaderlou/profile_images/blob/master/sklearn.png)|![](https://github.com/EhsanNaderlou/profile_images/blob/master/tensorflow.png)|![](https://github.com/EhsanNaderlou/profile_images/blob/master/keras.png)|![](https://github.com/EhsanNaderlou/profile_images/blob/master/opencv.png)|![](https://github.com/EhsanNaderlou/profile_images/blob/master/cvzone.png)|![](https://github.com/EhsanNaderlou/profile_images/blob/master/customtkinter.png)|![](https://github.com/EhsanNaderlou/profile_images/blob/master/yolo.png)|
 
-
-
-
-
-dwadwad
 
 
 | Numpy | Pandas | MatPlotLib | Scikit-Learn | Tensorflow | Keras | OpenCv | CvZone | CustomTkinter | YOLO models |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| ![](https://github.com/EhsanNaderlou/profile_images/blob/master/numpy.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/pandas.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/matplotlib.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/sklearn.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/tensorflow.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/keras.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/op
+| ![](https://github.com/EhsanNaderlou/profile_images/blob/master/numpy.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/pandas.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/matplotlib.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/sklearn.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/tensorflow.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/keras.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/opencv.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/cvzone.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/customtkinter.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/yolo.png) |
+
 
