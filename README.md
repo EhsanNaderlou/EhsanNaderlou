@@ -8,7 +8,8 @@
 ## زبان ها و ابزار هایی من بهشون مسلط ام :
 
 
-###                                                                                                              زبان ها :
+#####   زبان ها :
+
 |Python         |
 |:-------------:|
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/python.png) |
