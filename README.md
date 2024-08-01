@@ -3,13 +3,13 @@
 با یک سال تجربه در تحقیق، توسعه و پیاده‌سازی الگوریتم‌های هوش مصنوعی و مدل‌های یادگیری عمیق ، مسلط به ابزارهایی مانند TensorFlow و scikit-learn
 
 #### راه های ارتباطی با من :
-![Instagram](https://github.com/EhsanNaderlou/profile_images/blob/master/telegram.png) تلگرام
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/telegram.png) تلگرام
 
-![Instagram](https://github.com/EhsanNaderlou/profile_images/blob/master/instagram.png) اینستاگرام
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/instagram.png) اینستاگرام
 
-![Instagram](https://github.com/EhsanNaderlou/profile_images/blob/master/gmail.png) ایمیل
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/gmail.png) ایمیل
 
-![Instagram](https://github.com/EhsanNaderlou/profile_images/blob/master/youtube.png) یوتوب
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/youtube.png) یوتوب
 
 
 
