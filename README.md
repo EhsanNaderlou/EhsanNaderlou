@@ -13,3 +13,8 @@
 |Python         |
 |:-------------:|
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/python.png) |
+
+### کتابخونه ها و فریمورک ها :
+|Numpy          |Pandas              |
+|:-------------:|:------------------:|
+| ![](https://github.com/EhsanNaderlou/profile_images/blob/master/numpy.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/pandas.png)|
