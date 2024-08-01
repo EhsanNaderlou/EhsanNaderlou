@@ -9,4 +9,4 @@
 
 |Python         |
 |:-------------:|
-| ![](https://github.com/EhsanNaderlou/profile_images/blob/master/MySql.png) |
+| ![](https://github.com/EhsanNaderlou/profile_images/blob/master/python.png) |
