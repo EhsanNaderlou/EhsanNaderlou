@@ -23,7 +23,7 @@
 |:-------------:|
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/python.png) |
 
-### کتابخونه ها و فریمورک ها 📚🛠️ :
+### کتابخونه ها و فریمورک ها 📚🛠️:
 
 
 
@@ -37,14 +37,14 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/jupyter.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/anaconda.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/MySql.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/sql.png) |
 
-### سیستم عامل هایی که من بهشون مسلط ام 🖥️💻 :
+### سیستم عامل هایی که من بهشون مسلط ام 🖥️💻:
 | Linux | Windows | Ubuntu | Fedora |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/linux.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/windows.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/ubuntu.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/fedora.png) |
 
 
 
-# پروژه هایی که ساختم :
+# پروژه هایی که ساختم 🗂️:
 
 ![](https://github.com/EhsanNaderlou/profile_images/blob/master/github-snake.svg)
 
