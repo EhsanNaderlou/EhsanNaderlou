@@ -1,4 +1,4 @@
-## درباره ی من :
+# درباره ی من :
 من احسانم ، برنامه‌نویس هوش مصنوعی و دیتاساینس...
 با یک سال تجربه در تحقیق، توسعه و پیاده‌سازی الگوریتم‌های هوش مصنوعی و مدل‌های یادگیری عمیق ، مسلط به ابزارهایی مانند TensorFlow و scikit-learn
 
@@ -43,6 +43,8 @@
 | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/linux.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/windows.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/ubuntu.png) | ![](https://github.com/EhsanNaderlou/profile_images/blob/master/fedora.png) |
 
 
+
+# پروژه هایی که ساختم :
 
 ![](https://github.com/EhsanNaderlou/profile_images/blob/master/github-snake.svg)
 
