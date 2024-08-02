@@ -7,7 +7,7 @@
 
 ![](https://github.com/EhsanNaderlou/profile_images/blob/master/instagram.png) <a href="https://instagram.com/ehsan.aidev">اینستاگرام</a>
 
-![](https://github.com/EhsanNaderlou/profile_images/blob/master/youtube.png) <a href="https://instagram.com/ehsan.aidev">اینستاگرام</a>
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/youtube.png) <a href="https://instagram.com/ehsan.aidev">یوتوب</a>
 
 
 
