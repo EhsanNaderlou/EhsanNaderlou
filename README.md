@@ -48,7 +48,7 @@
 # پروژه هایی که ساختم 🗂️:
 ### ورزش با چاشتی هوش مصنوعی 💪😮!!
 ---
-![](https://github.com/EhsanNaderlou/profile_images/blob/master/Ai%20Exercise%20Gif.mp4)
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/ai_exercise.mp4)
 ### شمارش سکه با هوش مصنوعی 🪙🇮🇷
 ---
 ### تشخیص رنگ با پایتون 🌈
