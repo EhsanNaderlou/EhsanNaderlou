@@ -51,7 +51,7 @@
 ---
 ### شمارش سکه با هوش مصنوعی 🪙🇮🇷
 
-[coin_test3.webm](https://github.com/user-attachments/assets/a48fd9a5-a774-4e08-b78d-12693fbb912b)
+[coin_test3.webm](https://github.com/user-attachments/assets/a48fd9a5-a774-4e08-b78d-12693fbb912b) - This video demonstrates the functionality of the coin test.
 
 dawdawdwd
 
