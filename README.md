@@ -47,7 +47,7 @@
 
 # پروژه هایی که ساختم 🗂️:
 ### ورزش با چاشتی هوش مصنوعی 💪😮!!
-[](https://github.com/EhsanNaderlou/profile_images/blob/master/ai_exercise.webm)
+[ai_exercise.webm](https://github.com/user-attachments/assets/6db8bb54-4f06-4776-bdba-005de6bdc7a3)
 
 
 
