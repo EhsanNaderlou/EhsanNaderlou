@@ -48,7 +48,7 @@
 # پروژه هایی که ساختم 🗂️:
 ### ورزش با چاشتی هوش مصنوعی 💪😮!!
 <video width="640" height="480" controls>
-  <source src="https://github.com/user-attachments/assets/e43fc521-0aa7-421a-bb45-e8ff2ddabe70" type="video/webm">
+  <source src="https://github.com/EhsanNaderlou/profile_images/blob/master/ai_exercise.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
