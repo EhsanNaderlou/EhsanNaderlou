@@ -54,7 +54,7 @@
 ### شمارش سکه با هوش مصنوعی 🪙🇮🇷
 
 
-![coin-min](https://github.com/user-attachments/assets/a6cb42d9-1b77-4adf-862f-ee1571df0b54)
+![coin-min](https://github.com/user-attachments/assets/a6cb42d9-1b77-4adf-862f-ee1571df0b54) تست
 
 
 
