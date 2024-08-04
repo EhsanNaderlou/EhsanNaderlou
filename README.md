@@ -49,7 +49,7 @@
 ### ورزش با چاشتی هوش مصنوعی 💪😮!!
 <iframe width="560" height="315" src="https://youtu.be/hyTJzdy73QQ" frameborder="0" allowfullscreen></iframe>
 
-[Watch the video](https://github.com/EhsanNaderlou/profile_images/blob/master/exercise.mp4)
+[](https://youtu.be/hyTJzdy73QQ)
 
 
 ---
