@@ -53,8 +53,8 @@
 ---
 ### شمارش سکه با هوش مصنوعی 🪙🇮🇷
 
+[My Video.webm](https://github.com/user-attachments/assets/daede3e9-c5eb-4607-9b7b-79e508af8ce9)
 
-[coin2.webm](https://github.com/user-attachments/assets/d3c4a1d9-bfa4-44ee-825b-6d201641c28c)
 
 
 
