@@ -51,7 +51,7 @@
 ---
 ### شمارش سکه با هوش مصنوعی 🪙🇮🇷
 
-[coin_test1.webm](https://github.com/user-attachments/assets/641aaf1b-622f-457c-bed6-8a1587537aa6)
+[coin_test1.webm][dwadawdwa](https://github.com/user-attachments/assets/641aaf1b-622f-457c-bed6-8a1587537aa6)
 
 ---
 ### تشخیص رنگ با پایتون 🌈
