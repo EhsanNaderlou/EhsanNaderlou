@@ -47,17 +47,15 @@
 
 # پروژه هایی که ساختم 🗂️:
 ### ورزش با چاشتی هوش مصنوعی 💪😮!!
-<video width="640" height="360" controls>
-  <source src="ai_exercise.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-
-
 
 ---
 ### شمارش سکه با هوش مصنوعی 🪙🇮🇷
+
+[coin_test1.webm](https://github.com/user-attachments/assets/641aaf1b-622f-457c-bed6-8a1587537aa6)
+
 ---
 ### تشخیص رنگ با پایتون 🌈
+
 ---
 ### کنترل led ها با انگشتان دست 🌈👌
 
