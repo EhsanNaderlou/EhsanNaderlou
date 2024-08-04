@@ -55,7 +55,7 @@
 
 
 
-![coin-min](https://github.com/user-attachments/assets/044fd5bd-3842-4d17-b91a-8b20c9430d2a)
+![coin](https://github.com/user-attachments/assets/84b75f74-94a4-4756-be3c-710d1ce22763)
 
 
 ---
