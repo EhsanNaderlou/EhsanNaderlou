@@ -48,25 +48,29 @@
 # پروژه هایی که ساختم 🗂️:
 ### ورزش با چاشتی هوش مصنوعی 💪😮!!
 
+![exercise](https://github.com/user-attachments/assets/7dc1a1f5-2fc8-4f47-a68e-732252b35fcd)
 
 
 ---
 ### شمارش سکه با هوش مصنوعی 🪙🇮🇷
 
 
-![coin](https://github.com/user-attachments/assets/d0532fa1-0303-44b3-a078-a5f49ccf1dab)
 
+![coin](https://github.com/user-attachments/assets/28b8469f-388b-4da0-b536-8002c196ffd1)
 
 
 ---
 ### تشخیص رنگ با پایتون 🌈
 
 
+![color](https://github.com/user-attachments/assets/39cedb15-40d3-47ae-9624-38e8c924ebd7)
 
 ---
 ### کنترل led ها با انگشتان دست 🌈👌
 
 
+
+![led](https://github.com/user-attachments/assets/99bfa942-35ee-4c6b-b7bf-b6f660f5069a)
 
 ---
 
