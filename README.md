@@ -59,7 +59,7 @@
 
 <a href="https://drive.google.com/file/d/1nd_LL-3s1UTWy6_7ESqrBNLvpETZe9ot/view?usp=drive_link">Download EXE File</a>
 
-![exercise](https://github.com/user-attachments/assets/7dc1a1f5-2fc8-4f47-a68e-732252b35fcd) 
+![exercise](https://github.com/EhsanNaderlou/profile_images/blob/master/exercise.gif) 
 
 ---
 ### شمارش سکه با هوش مصنوعی 🪙🇮🇷
