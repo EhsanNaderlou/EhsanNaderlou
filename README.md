@@ -68,7 +68,7 @@
 
 <a href="https://drive.google.com/file/d/1qWiGNgRCngBC9kcYR8OF58AfYNf20pDN/view?usp=drive_link">Download EXE File</a>
 
-![coin](https://github.com/user-attachments/assets/28b8469f-388b-4da0-b536-8002c196ffd1)
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/coin.gif)
 
 ---
 ### تشخیص رنگ با پایتون 🌈
@@ -77,14 +77,14 @@
 
 <a href="https://drive.google.com/file/d/12cYrAj9dFCLTKUrRwwPUsadl0sRt14j5/view?usp=drive_link">Download EXE File</a>
 
-![color](https://github.com/user-attachments/assets/39cedb15-40d3-47ae-9624-38e8c924ebd7)
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/color.gif)
 
 ---
 ### کنترل led ها با انگشتان دست 🌈👌
 
 پروژه‌ای خلاقانه با پایتون که با استفاده از وبکم و مدل هوش مصنوعی، فاصله بین دو انگشت شصت و اشاره را اندازه‌گیری می‌کند. بر اساس این فاصله، تعداد لامپ‌های LED آبی که به صورت ردیفی چیده شده‌اند، روشن می‌شود. به عنوان مثال، اگر فاصله کم باشد، فقط دو لامپ روشن می‌شوند و اگر فاصله زیاد باشد، همه ۱۰ لامپ روشن می‌شوند. این پروژه با استفاده از کتابخانه cvzone و برد آردوینو طراحی شده و تجربه‌ای تعاملی و جذاب را برای کاربران فراهم می‌کند!
 
-![led](https://github.com/user-attachments/assets/99bfa942-35ee-4c6b-b7bf-b6f660f5069a)
+![](https://github.com/EhsanNaderlou/profile_images/blob/master/led.gif)
 
 ---
 
